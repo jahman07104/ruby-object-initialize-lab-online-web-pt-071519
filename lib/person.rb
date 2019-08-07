@@ -8,7 +8,6 @@ class Person
  def name
    @name
  end
- end
 end
 
 beyonce = Person.new("Beyonce")
