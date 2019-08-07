@@ -10,8 +10,8 @@ class Dog
  end
 end
 
-fido = Dog.new("Fido")
-fido.name
+beyonce = Person.new("Beyonce")
+beyonce.name
 #   def initialize(breed)
 #     @breed=breed
 # end
