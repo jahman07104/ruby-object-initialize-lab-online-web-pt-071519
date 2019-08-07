@@ -1,8 +1,8 @@
-classs Dog
-def initialize
+# classs Dog
+# def initialize
 
 
 
 
- end
-end
+# end
+# end
